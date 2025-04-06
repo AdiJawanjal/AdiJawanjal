@@ -1,5 +1,3 @@
-
-
 # <p align="center">Hi there, I'm Aditya Jawanjal! 👋</p>
 
 <p align="center">
