@@ -4,12 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Aditya+Jawanjal;DevOps+Enthusiast+%7C+Cloud+Engineer;Passionate+about+Automation+%26+Infrastructure;Let's+Build+Scalable+Systems!"/>
 </p>
 
-<p align="center">
-  
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200">
-</p>
-
-
 ## 🚀 About Me
 
 🎓 **Graduate in Information Technology**  
