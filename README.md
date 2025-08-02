@@ -66,7 +66,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&width=500&lines=DevOps+Engineer+in+Progress...;Cloud+Automation+Enthusiast;Building+Scalable+Infrastructure;Open+to+Collaboration!"/>
   <br>
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="300">
 </p>
 
 ---
