@@ -46,7 +46,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/aditya-jawanjal-b06ab5230/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/AdiJawanjal"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://aditya-jawanjal-portfolio.s3.us-east-1.amazonaws.com/index.html"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white"></a>
+  <a href="https://aditya-jawanjal.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white"></a>
   <a href="https://x.com/Adi_Jawanjal_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
 </p>
 
