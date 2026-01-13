@@ -9,7 +9,7 @@
 🎓 **Graduate in Information Technology**  
 💻 **Aspiring DevOps/Linux/Cloud Engineer**  
 🌍 **From India**  
-🔧 **Hands-on experience with AWS, Terraform, Ansible, Jenkins, Docker, Kubernetes, ArgoCD**  
+🔧 **Hands-on experience with AWS, Terraform, Ansible, Jenkins, Docker, Kubernetes**  
 📊 **Learning DecSecOps, FinOps & Cloud Optimization**
 
 ---
